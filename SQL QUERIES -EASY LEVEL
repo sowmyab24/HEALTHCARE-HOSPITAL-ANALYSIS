@@ -1,23 +1,17 @@
 
 𝗦𝗲𝗰𝘁𝗶𝗼𝗻𝟭: 𝗘𝗮𝘀𝘆
 ✅ Finding patients born in a specific year (like 2010)
-
- ✅ Identifying patients with the greatest height
-
- ✅ Filtering records using weights, cities, and allergy data
-
- ✅ Updating NULL values to meaningful placeholders like 'NKA'
-
- ✅ Working with province codes and transforming them into full names
-
- ✅ Counting total admissions and analyzing patient histories
-
+✅ Identifying patients with the greatest height
+✅ Filtering records using weights, cities, and allergy data
+✅ Updating NULL values to meaningful placeholders like 'NKA'
+✅ Working with province codes and transforming them into full names
+✅ Counting total admissions and analyzing patient histories
 
 # WHAT I GAINED ?
-📌 These challenges improved my hands-on SQL skills with:
-WHERE, LIKE, IN, COUNT, JOIN, UPDATE
-Logical conditions and aggregate functions
-Data cleaning and transformation techniques
+-These challenges improved my hands-on SQL skills with:
+ WHERE, LIKE, IN, COUNT, JOIN, UPDATE
+- Logical conditions and aggregate functions
+- Data cleaning and transformation techniques
 
 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 𝟭- 𝟭6
 
