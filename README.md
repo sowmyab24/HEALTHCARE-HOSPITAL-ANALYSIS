@@ -8,11 +8,13 @@ Welcome to the Hospital Management SQL Project  a real-world healthcare database
 This project empowers hospitals to make data-informed decisions, improve patient outcomes, optimize operations, and reduce costs.
 1. # Patient Demographics & Data Cleanup
 Example: Ordering patients by name length, filtering out 'NKA' and NULL in allergies.
+
 Impact:
 Helps in data quality improvement, which is vital for accurate reporting, analytics, and compliance with healthcare regulations like HIPAA.
  
 2. # Gender-Based Statistics
 Example: Showing male vs. female patient counts in a single row.
+
 Impact:
 Supports gender-specific care programs, resource planning (e.g., maternity vs. general care), and equitable healthcare delivery.
 
