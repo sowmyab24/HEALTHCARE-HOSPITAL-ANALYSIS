@@ -20,40 +20,49 @@ Supports gender-specific care programs, resource planning (e.g., maternity vs. g
 
 3. # Allergy & Diagnosis Analysis
 Example: Filtering for patients allergic to 'Penicillin' or 'Morphine', finding repeated diagnoses.
+
 Impact:
 Enables personalized patient care and helps in risk management by tracking recurrent issues or drug sensitivities.
    
 4. # City/Region Level Reports
 Example: Count of patients by city, sorting by patient volume.
+
 Impact:
 Aids in hospital expansion strategies, regional staffing, and mobile health outreach programs.
 
 5. # Date-Based Admission Trends
 Example: Admissions per day, admissions in the 1970s.
+
 Impact:
 Helps reduce billing errors, improves data integrity, and ensures complete patient tracking.
 
 6. # Advanced Data Transformation
 Example: Converting CM to feet, KG to pounds, showing formatted full names.
+
 Impact:
 Supports global compatibility (imperial vs. metric), improves data readability for frontline staff and dashboards.
 
 7. # Duplicate & Missing Records Detection
 Example: Finding duplicates and patients without admissions.
+
 Impact:
 Helps reduce billing errors, improves data integrity, and ensures complete patient tracking.
 
 
 8. # Complex Conditions with Logic
 Example: Combining multiple criteria for filtering patient-doctor records.
+
 Impact:
 Enhances targeted query building for advanced clinical investigations and internal audits.
 
 
 # 🚀 What I Learned
 ✅ Writing clean SQL for multi-table joins, aggregations, date calculations,Analytical Thinking
+
 ✅ Understanding Star Schema and ER modeling in a real-world setting
+
 ✅ Creating insights from relational databases in healthcare
+
 ✅ Structuring a data project for GitHub portfolio visibility
 
 
