@@ -57,7 +57,7 @@ Enhances targeted query building for advanced clinical investigations and intern
 
 
 # 🚀 What I Learned
-✅ Writing clean SQL for multi-table joins, aggregations, date calculations,Analytical Thinking
+✅ Writing clean SQL for multi-table joins, aggregations, date calculations,Analytical Thinking.
 
 ✅ Understanding Star Schema and ER modeling in a real-world setting
 
