@@ -2,7 +2,10 @@
 
 This project simulates a **Hospital Management System** database using SQL. It demonstrates the ability to design normalized schemas, write complex queries, and generate healthcare insights using real-world logic.
 Welcome to the Hospital Management SQL Project  a real-world healthcare database modeled in SQL. 
-# This project simulates hospital operations and enables analytical insights through practical SQL queries (Easy, Medium, and Hard levels). 
+# This project simulates hospital operations and enables analytical insights through practical SQL queries (Easy, Medium, and Hard levels).
+
+# DATABASE :
+![Image Alt](https://github.com/sowmyab24/HEALTHCARE-HOSPITAL-ANALYSIS/blob/60749eb7a8539b20c5824fc9de0f7067650a10fd/Database.png)
 
 # KEY METRICS & BUSINESS IMPACTS
 This project empowers hospitals to make data-informed decisions, improve patient outcomes, optimize operations, and reduce costs.
