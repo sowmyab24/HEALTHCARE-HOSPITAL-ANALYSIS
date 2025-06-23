@@ -66,7 +66,7 @@ Understanding Star Schema and ER modeling in a real-world setting
 
 Creating insights from relational databases in healthcare
 
-✅ Structuring a data project for GitHub portfolio visibility
+Structuring a data project for GitHub portfolio visibility
 
 
 
