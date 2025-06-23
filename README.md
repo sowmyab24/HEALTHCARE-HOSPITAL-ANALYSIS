@@ -59,12 +59,12 @@ Impact:
 Enhances targeted query building for advanced clinical investigations and internal audits.
 
 
-# 🚀 What I Learned
-✅ Writing clean SQL for multi-table joins, aggregations, date calculations,Analytical Thinking.
+#  What I Learned
+Writing clean SQL for multi-table joins, aggregations, date calculations,Analytical Thinking.
 
-✅ Understanding Star Schema and ER modeling in a real-world setting
+Understanding Star Schema and ER modeling in a real-world setting
 
-✅ Creating insights from relational databases in healthcare
+Creating insights from relational databases in healthcare
 
 ✅ Structuring a data project for GitHub portfolio visibility
 
